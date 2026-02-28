@@ -1,0 +1,4 @@
+﻿app/play/[songId]/page.tsx(79,81): error TS2339: Property 'style' does not exist on type 'EventTarget & Element'.
+app/play/[songId]/page.tsx(80,81): error TS2339: Property 'style' does not exist on type 'EventTarget & Element'.
+app/results/[songId]/page.tsx(118,24): error TS2339: Property '' does not exist on type '{ S: string; A: string; B: string; C: string; D: string; }'.
+hooks/useUserState.ts(92,36): error TS2802: Type 'Set<string>' can only be iterated through when using the '--downlevelIteration' flag or with a '--target' of 'es2015' or higher.

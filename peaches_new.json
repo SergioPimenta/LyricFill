@@ -1,0 +1,666 @@
+{
+    "id": "peaches",
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "youtubeId": "ay9y3CTkT40",
+    "genre": "pop",
+    "level": "beginner",
+    "duration": 198,
+    "estimatedMinutes": 4,
+    "coverColor": "#fb923c",
+    "verses": [
+        {
+            "label": "Verse 1",
+            "lines": [
+                {
+                    "timestamp": 0,
+                    "text": "I get my peaches out in Georgia (oh, yeah, shit)",
+                    "blanks": [
+                        {
+                            "word": "yeah",
+                            "index": 8,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 4.9,
+                    "text": "I get my weed from California (that's that shit)",
+                    "blanks": [
+                        {
+                            "word": "weed",
+                            "index": 3,
+                            "hint": "w___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 10.1,
+                    "text": "I took my chick up to the North, yeah (badass bitch)",
+                    "blanks": [
+                        {
+                            "word": "yeah",
+                            "index": 8,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 14.3,
+                    "text": "I get my light right from the source, yeah (yeah, that's it)",
+                    "blanks": [
+                        {
+                            "word": "from",
+                            "index": 5,
+                            "hint": "f___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 18.4,
+                    "text": "And I say, oh (oh)",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 22,
+                    "text": "The way I breathe you in (in)",
+                    "blanks": []
+                }
+            ]
+        },
+        {
+            "label": "Section 2",
+            "lines": [
+                {
+                    "timestamp": 24.1,
+                    "text": "It's the texture of your skin",
+                    "blanks": [
+                        {
+                            "word": "your",
+                            "index": 4,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 26.1,
+                    "text": "I wanna wrap my arms around you, baby",
+                    "blanks": [
+                        {
+                            "word": "wrap",
+                            "index": 2,
+                            "hint": "w___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 28.2,
+                    "text": "Never let you go, oh",
+                    "blanks": [
+                        {
+                            "word": "never",
+                            "index": 0,
+                            "hint": "n____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 30.3,
+                    "text": "And I say, oh",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 33.8,
+                    "text": "There's nothing like your touch",
+                    "blanks": [
+                        {
+                            "word": "your",
+                            "index": 3,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 35.9,
+                    "text": "It's the way you lift me up, yeah",
+                    "blanks": [
+                        {
+                            "word": "lift",
+                            "index": 4,
+                            "hint": "l___",
+                            "level": "beginner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Section 3",
+            "lines": [
+                {
+                    "timestamp": 38,
+                    "text": "And I'll be right here with ya 'til the end of time",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 41,
+                    "text": "I got my peaches out in Georgia (oh, yeah, shit)",
+                    "blanks": [
+                        {
+                            "word": "yeah",
+                            "index": 8,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 45.4,
+                    "text": "I get my weed from California (that's that shit)",
+                    "blanks": [
+                        {
+                            "word": "california",
+                            "index": 5,
+                            "hint": "c_________",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 49.4,
+                    "text": "I took my chick up to the North, yeah (badass bitch)",
+                    "blanks": [
+                        {
+                            "word": "yeah",
+                            "index": 8,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 53.4,
+                    "text": "I get my light right from the source, yeah (yeah, that's it)",
+                    "blanks": [
+                        {
+                            "word": "from",
+                            "index": 5,
+                            "hint": "f___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 60,
+                    "text": "And I say, oh (oh)",
+                    "blanks": []
+                }
+            ]
+        },
+        {
+            "label": "Section 4",
+            "lines": [
+                {
+                    "timestamp": 63.1,
+                    "text": "The way I breathe you in (in)",
+                    "blanks": [
+                        {
+                            "word": "breathe",
+                            "index": 3,
+                            "hint": "b______",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 65.2,
+                    "text": "It's the texture of your skin",
+                    "blanks": [
+                        {
+                            "word": "texture",
+                            "index": 2,
+                            "hint": "t______",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 67.3,
+                    "text": "I wanna wrap my arms around you, baby",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 69.3,
+                    "text": "Never let you go, oh",
+                    "blanks": [
+                        {
+                            "word": "never",
+                            "index": 0,
+                            "hint": "n____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 71.3,
+                    "text": "And I say, oh",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 74.9,
+                    "text": "There's nothing like your touch",
+                    "blanks": []
+                }
+            ]
+        },
+        {
+            "label": "Section 5",
+            "lines": [
+                {
+                    "timestamp": 77.1,
+                    "text": "It's the way you lift me up, yeah",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 79.1,
+                    "text": "And I'll be right here with ya 'til the end of time",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 83,
+                    "text": "You ain't sure yet, but I'm for ya'",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 85.4,
+                    "text": "All I could want, all I can wish for",
+                    "blanks": [
+                        {
+                            "word": "could",
+                            "index": 2,
+                            "hint": "c____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 87.4,
+                    "text": "Nights alone that we miss more",
+                    "blanks": [
+                        {
+                            "word": "nights",
+                            "index": 0,
+                            "hint": "n_____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 89.4,
+                    "text": "And days we save as souvenirs",
+                    "blanks": [
+                        {
+                            "word": "save",
+                            "index": 3,
+                            "hint": "s___",
+                            "level": "beginner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Section 6",
+            "lines": [
+                {
+                    "timestamp": 91.5,
+                    "text": "There's no time, I want to make more time",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 93.4,
+                    "text": "Give you my whole life",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 95.5,
+                    "text": "I left my girl, I'm in my North-side",
+                    "blanks": [
+                        {
+                            "word": "girl",
+                            "index": 3,
+                            "hint": "g___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 99,
+                    "text": "And I say, oh (oh)",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 103.2,
+                    "text": "The way I breathe you in (in)",
+                    "blanks": [
+                        {
+                            "word": "breathe",
+                            "index": 3,
+                            "hint": "b______",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 105.2,
+                    "text": "It's the texture of your skin",
+                    "blanks": [
+                        {
+                            "word": "skin",
+                            "index": 5,
+                            "hint": "s___",
+                            "level": "beginner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Section 7",
+            "lines": [
+                {
+                    "timestamp": 107.3,
+                    "text": "I wanna wrap my arms around you, baby",
+                    "blanks": [
+                        {
+                            "word": "wanna",
+                            "index": 1,
+                            "hint": "w____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 109.4,
+                    "text": "Never let you go, oh",
+                    "blanks": [
+                        {
+                            "word": "never",
+                            "index": 0,
+                            "hint": "n____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 111.4,
+                    "text": "And I say, oh",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 115,
+                    "text": "There's nothing like your touch",
+                    "blanks": [
+                        {
+                            "word": "theres",
+                            "index": 0,
+                            "hint": "t_____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 117.1,
+                    "text": "It's the way you lift me up, yeah",
+                    "blanks": [
+                        {
+                            "word": "lift",
+                            "index": 4,
+                            "hint": "l___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 119.1,
+                    "text": "And I'll be right here with ya 'til the end of time",
+                    "blanks": [
+                        {
+                            "word": "right",
+                            "index": 3,
+                            "hint": "r____",
+                            "level": "beginner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Section 8",
+            "lines": [
+                {
+                    "timestamp": 124,
+                    "text": "Since I was young, they said I was the one",
+                    "blanks": [
+                        {
+                            "word": "they",
+                            "index": 4,
+                            "hint": "t___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 125.4,
+                    "text": "Fresh like the morning when the day is done",
+                    "blanks": [
+                        {
+                            "word": "done",
+                            "index": 8,
+                            "hint": "d___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 127.4,
+                    "text": "Seventeen, thirty-eight, if you want some",
+                    "blanks": [
+                        {
+                            "word": "seventeen",
+                            "index": 0,
+                            "hint": "s________",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 129.5,
+                    "text": "Everything I touch surely turn to gold",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 131.4,
+                    "text": "(Turn to gold, oh)",
+                    "blanks": [
+                        {
+                            "word": "gold",
+                            "index": 2,
+                            "hint": "g___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 135,
+                    "text": "And I say, oh (oh)",
+                    "blanks": []
+                }
+            ]
+        },
+        {
+            "label": "Section 9",
+            "lines": [
+                {
+                    "timestamp": 139.1,
+                    "text": "The way I breathe you in (in)",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 141.3,
+                    "text": "It's the texture of your skin",
+                    "blanks": [
+                        {
+                            "word": "texture",
+                            "index": 2,
+                            "hint": "t______",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 143.2,
+                    "text": "I wanna wrap my arms around you, baby",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 145.3,
+                    "text": "Never let you go, oh",
+                    "blanks": [
+                        {
+                            "word": "never",
+                            "index": 0,
+                            "hint": "n____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 147.3,
+                    "text": "And I say, oh",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 150.9,
+                    "text": "There's nothing like your touch",
+                    "blanks": []
+                }
+            ]
+        },
+        {
+            "label": "Section 10",
+            "lines": [
+                {
+                    "timestamp": 153,
+                    "text": "It's the way you lift me up, yeah",
+                    "blanks": [
+                        {
+                            "word": "yeah",
+                            "index": 7,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 155.1,
+                    "text": "And I'll be right here with ya 'til the end of time",
+                    "blanks": [
+                        {
+                            "word": "right",
+                            "index": 3,
+                            "hint": "r____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 159,
+                    "text": "I get my peaches out in Georgia (oh, yeah, shit)",
+                    "blanks": [
+                        {
+                            "word": "yeah",
+                            "index": 8,
+                            "hint": "y___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 163.4,
+                    "text": "I get my weed from California (that's that shit)",
+                    "blanks": [
+                        {
+                            "word": "weed",
+                            "index": 3,
+                            "hint": "w___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 167.5,
+                    "text": "I took my chick up to the North, yeah (badass bitch)",
+                    "blanks": [
+                        {
+                            "word": "north",
+                            "index": 7,
+                            "hint": "n____",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 171.4,
+                    "text": "I get my light right from the source, yeah (yeah, that's it)",
+                    "blanks": []
+                }
+            ]
+        },
+        {
+            "label": "Section 11",
+            "lines": [
+                {
+                    "timestamp": 175.4,
+                    "text": "(yeah, that's it, that's that shit)",
+                    "blanks": [
+                        {
+                            "word": "that",
+                            "index": 4,
+                            "hint": "t___",
+                            "level": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "timestamp": 179,
+                    "text": "I get my peaches out in Georgia (oh, yeah, shit)",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 183.3,
+                    "text": "I get my weed from California (that's that shit)",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 187.4,
+                    "text": "I took my chick up to the North, yeah (badass bitch)",
+                    "blanks": []
+                },
+                {
+                    "timestamp": 191.4,
+                    "text": "I get my light right from the source, yeah (yeah, that's it)",
+                    "blanks": []
+                }
+            ]
+        }
+    ]
+}
