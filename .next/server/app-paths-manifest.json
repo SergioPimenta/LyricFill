@@ -1,10 +1,7 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
   "/profile/page": "app/profile/page.js",
-  "/home/page": "app/home/page.js",
   "/play/[songId]/page": "app/play/[songId]/page.js",
-  "/onboarding/page": "app/onboarding/page.js",
   "/login/page": "app/login/page.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/api/user/me/route": "app/api/user/me/route.js"
+  "/page": "app/page.js",
+  "/home/page": "app/home/page.js"
 }
