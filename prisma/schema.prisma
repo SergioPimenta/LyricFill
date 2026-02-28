@@ -22,13 +22,21 @@ model User {
 }
 
 model UserProfile {
-  id        String   @id @default(cuid())
-  userId    String   @unique
-  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-  xp        Int      @default(0)
-  level     Int      @default(1)
-  streak    Int      @default(0)
-  avatarId  String   @default("default")
+  id                 String   @id @default(cuid())
+  userId             String   @unique
+  user               User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  xp                 Int      @default(0)
+  level              Int      @default(1)
+  streak             Int      @default(0)
+  avatarId           String   @default("default")
+  lastPlayedAt       DateTime @default(now())
+  songsCompleted     String[] @default([])
+  learnedWords       Json     @default("[]")
+  achievements       Json     @default("[]")
+  weeklyActivity     Json     @default("[0,0,0,0,0,0,0]")
+  favorites          String[] @default([])
+  history            Json     @default("[]")
+  onboardingComplete Boolean  @default(false)
 }
 
 model GameSession {
